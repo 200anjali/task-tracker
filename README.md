@@ -15,7 +15,7 @@
 
 ### Task Model
 
-![Alt Text](https://drive.google.com/file/d/1xBSVb7OeiW6vv231le86SU4IUcA82NrE/view?usp=drivesdk)
+![Alt Text](https://github.com/200anjali/task-tracker/blob/main/task%20tracker%20Model%20databases.png)
 
 1. We have design a model for tasks with the following fields:
 
